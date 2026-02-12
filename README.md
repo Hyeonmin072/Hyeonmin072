@@ -4,6 +4,8 @@
 <!--
 **Hyeonmin072/Hyeonmin072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)(https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
