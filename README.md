@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hyeonmin&animation=fadeIn)
 
 
 ## Hi there I'm Hyeonmin Kim👋
