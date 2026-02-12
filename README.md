@@ -8,9 +8,6 @@
 
 ---
 
-### 📊 GitHub Stats
-[![Hyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonmin072&show_icons=true&theme=radical)](https://github.com/Hyeonmin072)
-
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
