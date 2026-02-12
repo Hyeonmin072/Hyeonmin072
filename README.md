@@ -3,7 +3,6 @@
 ### 🔭 About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 💬 Ask me about ...
 - 📫 How to reach me: [gusals072@gmail.com]
 
 ---
@@ -21,14 +20,14 @@
 
 ---
 
-## OS
+## 💻 OS
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## DataBase
+## 💾 DataBase
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
