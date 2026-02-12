@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave)
+
+
 ## Hi there I'm Hyeonmin Kim👋
 
 ### 🔭 About Me
